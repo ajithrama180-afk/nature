@@ -5,7 +5,7 @@ from io import BytesIO
 
 # Page configuration
 st.set_page_config(
-    page_title="Nature Bakery - Artisan Cakes & Cupcakes",
+    page_title="Anusha's Nature Bakery - Artisan Cakes & Cupcakes",
     page_icon="🧁",
     layout="wide",
     initial_sidebar_state="expanded"
