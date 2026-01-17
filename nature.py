@@ -50,7 +50,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Header
-st.markdown("<h1>🌿 Nature Bakery 🧁</h1>", unsafe_allow_html=True)
+st.markdown("<h1>🌿 Anusha's Nature Bakery 🧁</h1>", unsafe_allow_html=True)
 st.markdown("<h3 style='text-align: center; color: #A0522D;'>Handcrafted Cakes & Cupcakes Made with Love</h3>", unsafe_allow_html=True)
 
 # Sidebar
